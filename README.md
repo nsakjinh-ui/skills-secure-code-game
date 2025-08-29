@@ -3,7 +3,7 @@
 
 # Secure Code Game
 
-_A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally
+A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally
 vulnerable code. 
 
 </header>
