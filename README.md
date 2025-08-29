@@ -17,16 +17,6 @@ vulnerable code.
 
 ### How to start this course
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'secure-code-game',
-  owner: '@me',
-  name: 'skills-secure-code-game',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
 
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=secure-code-game&owner=%40me&name=skills-secure-code-game&description=My+clone+repository&visibility=public)
 
@@ -113,9 +103,7 @@ pip3 install -r requirements.txt
 
 - Programming Languages
 
-1. To play Season 1, you will need to have `python3` and `c` installed.
-1. To play Season 2, you will need to have `yaml`, `go`, `python3` and `node` installed.
-1. To play Season 3, you will need to have `node` installed, just like for Season 2. Therefore, if you played Season 2 locally, you're all set.
+To play Season 1, you will need to have `python3` and `c` installed.
 
 If you are using VS Code locally, you can install the above programming languages through the editor extensions with these identifiers:
 
@@ -168,9 +156,3 @@ For more information about cloning repositories, see "[Cloning a repository](htt
 
 
 ---
-
-Get help: Email us at securitylab-social@github.com &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
