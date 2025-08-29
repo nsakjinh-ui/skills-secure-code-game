@@ -16,11 +16,9 @@ vulnerable code.
 
 ## Welcome
 
-- **Who is this for**: Developers, students.
+- **Who is this for**: Developers.
 - **What you'll learn**: How to spot and fix vulnerable patterns in real-world code, build security into your workflows, and understand security alerts generated against your code.
 - **What you'll build**: You will develop fixes on functional but vulnerable code.
-- **Prerequisites**: For the first season, you will need some knowledge of `python3` for most levels and `C` for level 2. For the second season, you will need some knowledge of `GitHub Actions` for level 1, `go` for level 2, `python3` for level 4, and `javascript` for levels 3 and 5. For the third season, no prior knowledge of Artificial Intelligence is needed.
-- **How long**: Seasons 1 and 2 each feature five levels and typically take 3-6 hours to complete, depending on your skill level. Season 3 offers six levels and has an estimated completion time of 2-4 hours, also depending on your experience.
 
 ### How to start this course
 
