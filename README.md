@@ -8,11 +8,6 @@ vulnerable code.
 
 </header>
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
 
 ## Welcome
 
@@ -59,7 +54,6 @@ Optional: We recommend these free-of-charge additional extensions, but we haven'
 1. `github.copilot-chat` to receive AI-generated code explanations.
 1. `alexcvzz.vscode-sqlite` to visualize the SQL database created in Season-1/Level-4 and the effects of our exploits on its content.
 
-If you need assistance, don't hesitate to ask for help in our [GitHub Discussions](https://github.com/skills/secure-code-game/discussions) or on our [Slack](https://gh.io/securitylabslack), at the [#secure-code-game](https://ghsecuritylab.slack.com/archives/C05DH0PSBEZ) channel.
 
 #### 💻 Local installation
 
@@ -171,10 +165,7 @@ For more information about cloning repositories, see "[Cloning a repository](htt
 
 <footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+
 
 ---
 
