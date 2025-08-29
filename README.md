@@ -36,7 +36,7 @@ All levels are configured to run instantly with GitHub Codespaces. If you chose 
 1. To create a codespace, click the **Code** drop down button in the upper-right of your repository navigation bar.
 1. Click **Create codespace on main**.
 1. After creating a codespace, relax and wait for VS Code extensions and background installations to complete. This should take less than three minutes.
-1. At this point, you can get started with Season 1, 2, or 3, by navigating on the respective folders and reading the `README.md` file.
+1. At this point, you can get started with Season 1(Levels 1, 2, 3, 4, 5), by navigating on the respective folders and reading the `README.md` file.
 1. Once you click on individual levels, a banner might appear on the bottom right asking you if you want to create a virtual environment. Dismiss this notification as you _don't_ need to create a virtual environment.
 
 Optional: We recommend these free-of-charge additional extensions, but we haven't pre-installed them for you:
@@ -103,44 +103,12 @@ pip3 install -r requirements.txt
 
 - Programming Languages
 
-To play Season 1, you will need to have `python3` and `c` installed.
+To play, you will need to have `python3` installed.
 
 If you are using VS Code locally, you can install the above programming languages through the editor extensions with these identifiers:
 
 1. `ms-python.python`
 1. `ms-python.vscode-pylance`
-1. `ms-vscode.cpptools-extension-pack`
-1. `redhat.vscode-yaml`
-1. `golang.go`
-
-Please note that for the `go` programming language, you need to perform an extra step, which is to visit the [official website](https://go.dev/dl/) and download the driver corresponding to your operating system.
-
-Now, it's necessary to install `node` to get the `npm` packages we have provided. To do so:
-
-1. Start by installing a package manager like `homebrew` by running:
-
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-2. Install `node`:
-
-```bash
-brew install node
-```
-Adapt the command to the package manager you have chosen if it's not homebrew.
-
-3. The `npm` packages needed are specified in `package.json` and `package-lock.json`. Navigate to the `secure-code-game` repository and install them by running:
-
-```bash
-npm install --prefix Season-2/Level-4/ && npm install --global mocha
-```
-
-4. Install `vitest` 
-
-```bash
-npm install vitest 
-```
  
 5. At this point, you can get started with Season 1, 2, or 3, by navigating on the respective folders and reading the `README.md` file.
 
