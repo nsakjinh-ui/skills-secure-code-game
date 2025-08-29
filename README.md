@@ -1,24 +1,10 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses the MIT license.
--->
-
-📣 **SEASON 3 JUST DROPPED, AND IT'S ALL ABOUT ARTIFICIAL INTELLIGENCE** 📣
-
-![season-3-demo](https://github.com/user-attachments/assets/79d220ee-2334-4852-b463-c8ea72d0c185)
-
 
 # Secure Code Game
 
 _A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally
-vulnerable code. At the same time, this is an open source project that welcomes your [contributions](https://github.com/skills/secure-code-game/blob/main/CONTRIBUTING.md) as a way to give back to the
-community._
+vulnerable code. 
 
 </header>
 
