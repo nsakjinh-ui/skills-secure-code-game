@@ -110,14 +110,9 @@ If you are using VS Code locally, you can install the above programming language
 1. `ms-python.python`
 1. `ms-python.vscode-pylance`
  
-5. At this point, you can get started with Season 1, 2, or 3, by navigating on the respective folders and reading the `README.md` file.
+At this point, you can get started with Season-1 (Levels 1, 2, 3, 4, 5), by navigating on the respective folders and reading the `README.md` file.
 
-We recommend these free-of-charge additional extensions:
 
-1. `github.copilot-chat` to receive AI-generated code explanations.
-1. `alexcvzz.vscode-sqlite` to visualize the SQL database created and the effects of our exploits on its content.
-
-For more information about cloning repositories, see "[Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)."
 
 <footer>
 
